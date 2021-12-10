@@ -6,7 +6,7 @@
 // const secondNumber = screenDisplay.match(re2)
 // const operator = screenDisplay.match(re3)
 // let calculate = parseInt(firstNumber) + parseInt(secondNumber);
-// console.log(calculate)
-// console.log(firstNumber)
-// console.log(secondNumber)
-// console.log(operator)
+console.log(calculate);
+console.log(firstNumber);
+console.log(secondNumber);
+console.log(operator);
